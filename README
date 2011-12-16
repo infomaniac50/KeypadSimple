@@ -1,0 +1,8 @@
+KeypadSimple - This library provides a simple interface for using non-matrix keypads.
+version 1.8-r1
+Original library by: Mark Stanley, Alexander Brevig
+Modified by: Derek Chafin
+December 15, 2011
+GNU Lesser General Public License as published by the Free Software Foundation; version 2.1 of the License.
+
+This library provides a simple interface for using non-matrix keypads. It supports the use of multiple keypads with the same or different sets of keys.  It also supports userselectable pins and definable keymaps.
