@@ -1,5 +1,17 @@
+#######################################
+# Syntax Coloring Map For KeypadSimple
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
 KeypadSimple	KEYWORD1
 KeypadEvent	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
 
 begin	KEYWORD2
 getKey	KEYWORD2
@@ -12,6 +24,10 @@ makeKeymap	KEYWORD2
 
 # this is a way to standardize the client code, help enhance the use of the name keypadEvent
 keypadEvent	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
 
 NO_KEY	LITERAL1
 KEY_RELEASED	LITERAL1
